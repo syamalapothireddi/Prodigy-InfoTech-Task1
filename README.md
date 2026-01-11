@@ -1,14 +1,14 @@
-Prodigy InfoTech Software Development Internship Task 1:
+Prodigy InfoTech Software Development Internship – Task 1
 <br> <img src="https://github.com/syamalapothireddi/Prodigy-InfoTech-Task1/blob/main/task1.png">
+Overview
 
-Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech.
+Welcome to my submission for Task 1 of the Software Development Internship at Prodigy Infotech.
 In this task, I developed a Temperature Conversion Program that converts temperature values between Celsius, Fahrenheit, and Kelvin.
 
 Dataset / Task Description
-
 Task 1: Temperature Conversion Program
 
-Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech.
+Welcome to my submission for Task 1 of the Software Development Internship at Prodigy Infotech.
 In this task, I created a program that prompts the user to enter a temperature value along with its original unit of measurement and then converts it into the other two temperature units.
 
 🔁 Temperature Scales Covered
@@ -56,12 +56,13 @@ Uses standard and accurate conversion formulas
 Displays the converted temperature values clearly to the user
 
 📊 Example
+Input
 
-Input:
 Temperature: 25
+
 Unit: Celsius
 
-Output:
+Output
 
 Fahrenheit: 77 °F
 
@@ -77,7 +78,6 @@ Thank you for reviewing my submission!
 
 For any inquiries or feedback regarding this project, please contact:
 
-<a>https://www.linkedin.com/in/syamala-pothireddi-b226a4294/
-(LinkedIn)</a>
+LinkedIn: <a href="https://www.linkedin.com/in/syamala-pothireddi-b226a4294/">Syamala Pothireddi</a>
 
 Email: pothireddisyamala@gmail.com
