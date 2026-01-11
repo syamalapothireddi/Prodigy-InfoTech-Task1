@@ -1,68 +1,83 @@
-# Prodigy InfoTech Data Science Internship Task 1:
-<br>
-<img src="https://github.com/pavanitanmayasri/Prodigy-InfoTech-DataScience-Internship/blob/main/ds1.png"   >
-
-Welcome to my submission for Task 1 of the Data Science Internship at `Prodigy Infotech`. In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating a visualization to represent the distribution of a categorical or continuous variable.
-
-## Dataset
-
-Task 1: Exploratory Data Analysis (EDA)
+Prodigy InfoTech Software Development Internship Task 1:
+<br> <img src="https://github.com/syamalapothireddi/Prodigy-InfoTech-Task1/blob/main/task1.png">
 
 Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech.
-In this task, I performed Exploratory Data Analysis (EDA) on a population dataset and created visualizations to understand the distribution of population data across years.
+In this task, I developed a Temperature Conversion Program that converts temperature values between Celsius, Fahrenheit, and Kelvin.
 
-📁 Dataset
+Dataset / Task Description
 
-The dataset used for this task is World Population Dataset, sourced from the World Bank.
+Task 1: Temperature Conversion Program
 
-Indicator: Total Population
+Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech.
+In this task, I created a program that prompts the user to enter a temperature value along with its original unit of measurement and then converts it into the other two temperature units.
 
-Years Covered: 2001 – 2022
+🔁 Temperature Scales Covered
 
-Dataset Link:
-https://github.com/Prodigy-InfoTech/data-science-datasets/blob/main/Task%201/Metadata_Indicator_API_SP.POP.TOTL_DS2_en_csv_v2_38144.csv
+The program supports conversion between the following temperature scales:
 
-🛠️ Tools and Libraries Used
+Celsius (°C)
 
-Jupyter Notebook – For data analysis and visualization
+Fahrenheit (°F)
 
-Pandas – Data manipulation and analysis
+Kelvin (K)
 
-NumPy – Numerical operations
+🛠️ Tools and Technologies Used
 
-Matplotlib – Data visualization
+Python – Core programming language
 
-Seaborn – Statistical data visualization
+Jupyter Notebook / VS Code – Development environment
 
-🔍 Exploratory Data Analysis (EDA)
+Basic Programming Concepts
 
-During the EDA process, the following steps were performed:
+Conditional statements
 
-1️⃣ Data Cleaning
+User input handling
 
-Checked for missing values and handled them appropriately
+Mathematical operations
 
-Verified dataset structure and column consistency
+🔍 Program Functionality
 
-Removed unnecessary metadata rows
+During the development of this program, the following steps were implemented:
 
-2️⃣ Data Visualization
+1️⃣ User Input Handling
 
-Created bar charts to visualize population distribution
+Accepts temperature value from the user
 
-Created stacked charts to compare population trends across years
+Accepts the original unit of temperature
 
-Analyzed trends and variations in population growth
+2️⃣ Temperature Conversion
 
-## Conclusion
+Converts the entered temperature into the other two units
 
-In conclusion, this EDA process provided valuable insights into the distribution of the selected variable in the dataset. This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.
+Uses standard and accurate conversion formulas
+
+3️⃣ Output Display
+
+Displays the converted temperature values clearly to the user
+
+📊 Example
+
+Input:
+Temperature: 25
+Unit: Celsius
+
+Output:
+
+Fahrenheit: 77 °F
+
+Kelvin: 298.15 K
+
+Conclusion
+
+In conclusion, this task helped me strengthen my understanding of basic programming logic and real-world mathematical conversions. The Temperature Conversion Program is simple, accurate, and user-friendly, making it a useful utility for everyday applications.
 
 Thank you for reviewing my submission!
 
-## 📬 Contact
+📬 Contact
 
 For any inquiries or feedback regarding this project, please contact:
 
-- <a>[Kancharla Pavani Tanmaya Sri ](https://www.linkedin.com/in/pavani-tanmaya-sri-kancharla-25b361270/)(LinkedIn)</a>
-- Email: pavanitanmayasrik20@gmail.com
+<a>https://www.linkedin.com/in/syamala-pothireddi-b226a4294/
+(LinkedIn)</a>
+
+Email: pothireddisyamala@gmail.com
